@@ -3,6 +3,7 @@
 namespace Finals
 {
     // Group : Mikael Garillon- Issa Dayekh- Najwa Chemaissani- Zahra Ayoub
+    //matricules: Mikael Garillon: 243219 - Issa Dayekh: 242235 - Najwa Chemaissani: 242083 - Zahra Ayoub: 242878
     //We chose to code the XO game, we thought it would be a fun way to put our skills to the test while staying within the required conditions.
     //First we had to consider the needed conditions and functions and requirements in order to make this possible, then we had to print the board
     //And then we had to save the players' choices and display them.
